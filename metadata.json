@@ -1,0 +1,6 @@
+{
+  "name": "Spiritual Home",
+  "description": "Authentic Indian spiritual & puja products e-commerce store with PhonePe QR payments, customer verification, and full admin order & product management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
